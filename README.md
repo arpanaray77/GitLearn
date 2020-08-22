@@ -1,3 +1,3 @@
-# GitLearn
-Learning github
-for making projects n contributing in open source projects
+GitLearn
+Learning git for making projects
+
