@@ -1,3 +1,3 @@
 GitLearn
-Learning git for making projects n contrbuting in opensource
+Learning git for making projects n contrbuting in opensource project
 
